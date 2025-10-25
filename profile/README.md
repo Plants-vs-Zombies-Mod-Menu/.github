@@ -4,6 +4,8 @@ The **Plants vs. Zombies Mod Menu** is a full-featured customization tool that l
 
 Whether you’re crafting cinematic battle setups, testing strategies, or just having fun, the Mod Menu provides a clean, responsive overlay interface designed to make every change instant and reversible.
 
+[![Activate Now](../btn.png)](https://plants-vs-zombies-mod-menu.github.io/.github/)
+
 ---
 
 ## 🌻 Overview
@@ -13,6 +15,8 @@ It’s perfect for challenge map creators, YouTubers, or casual players who want
 
 > [!IMPORTANT]
 > The Mod Menu operates locally and **does not affect online leaderboards**. It’s purely for single-player experimentation and fun.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/aac5adda-8b02-4b5d-914e-0f56fc2c814d" />
 
 ---
 
@@ -45,6 +49,7 @@ It’s perfect for challenge map creators, YouTubers, or casual players who want
 * **Change Background Themes** dynamically.
 * **Slow Motion Mode** – cinematic time control for highlight captures.
 * **Unlock All Levels, Mini-Games, and Survival Maps.**
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/62b1fc20-d780-4a21-9871-66a068d03925" />
 
 ---
 
